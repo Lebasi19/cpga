@@ -7,7 +7,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #011463;
+  background-color: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0 114 63) 100%);
   border-radius: 0;
   border: 0;
 }
