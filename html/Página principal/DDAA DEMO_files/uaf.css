@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'minion';
+					src: url('/wp-content/uploads/useanyfont/56Minion.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/56Minion.woff') format('woff');
+					font-display: auto;
+				}
+
+				.minion{font-family: 'minion' !important;}
+
+						.menu-footer-menu-container li a, .menu-footer-menu-container li span, #menu-footer-menu li a, #menu-footer-menu li span, .menu-menu-container li a, .menu-menu-container li span, #menu-menu li a, #menu-menu li span{
+					font-family: 'minion' !important;
+				}
+		

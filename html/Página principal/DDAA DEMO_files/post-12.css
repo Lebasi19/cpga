@@ -1,0 +1,29 @@
+.elementor-12 .elementor-element.elementor-element-783dafd{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-12 .elementor-element.elementor-element-b45b347 .elementor-spacer-inner{height:50px;}.elementor-12 .elementor-element.elementor-element-9e3a5a0{font-family:"Montserrat Regular", Sans-serif;}.elementor-12 .elementor-element.elementor-element-1010fb1 .elementor-spacer-inner{height:50px;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Montserrat Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://ddaademo.com/wp-content/uploads/2021/09/Montserrat-Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://ddaademo.com/wp-content/uploads/2021/09/Montserrat-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://ddaademo.com/wp-content/uploads/2021/09/Montserrat-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://ddaademo.com/wp-content/uploads/2021/09/Montserrat-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'iconyuabc3';
+  src:  url('fonts/iconyuabc3.eot?5fq30c');
+  src:  url('fonts/iconyuabc3.eot?5fq30c#iefix') format('embedded-opentype'),
+    url('fonts/iconyuabc3.ttf?5fq30c') format('truetype'),
+    url('fonts/iconyuabc3.woff?5fq30c') format('woff'),
+    url('fonts/iconyuabc3.svg?5fq30c#iconyuabc3') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="iconyuabc3-"], [class*=" iconyuabc3-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'iconyuabc3' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconyuabc3-IMAGEN:before {
+  content: "\e900";
+  color: #fff;
+}
+.iconyuabc3-RADIO:before {
+  content: "\e901";
+  color: #fff;
+}
